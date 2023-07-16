@@ -1,5 +1,3 @@
-Certainly! Here's a detailed README for the GitHub repository and Jupyter Notebook file at https://github.com/Coderdivine/UniqueWorkingModel/blob/main/WorkingModel.ipynb:
-
 # UniqueWorkingModel
 
 This repository contains a Jupyter Notebook file (`WorkingModel.ipynb`) that showcases a unique working model for word prediction using a Long Short-Term Memory (LSTM) neural network. The model is trained on a dataset to predict unique words based on the sentences provided.
