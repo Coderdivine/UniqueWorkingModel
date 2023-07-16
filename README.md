@@ -23,7 +23,7 @@ The dataset used for training the word prediction model is expected to be in JSO
 To use this working model, you need to have Python installed along with the required dependencies. You can install the dependencies by running the following command in your terminal or command prompt:
 
 ```shell
-pip install -r requirements.txt
+!pip install -r requirements.txt
 ```
 
 ## Usage
@@ -80,7 +80,7 @@ The following dependencies are required to run the code in `WorkingModel.ipynb`:
 - NumPy
 - Jupyter Notebook
 
-You can install the required dependencies by running `pip install -r requirements.txt`.
+You can install the required dependencies by running `!pip install -r requirements.txt`.
 
 ## Contributing
 
